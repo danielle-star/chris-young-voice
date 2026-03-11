@@ -1,0 +1,15 @@
+{
+    "name": "chris-young-voice",
+    "version": "0.1.0",
+    "description": "Write content in Chris Young's authentic voice using real source material — YouTube transcripts, blog posts, and Combustion Inc. product details. Source-first workflow ensures every story, quote, and data point comes from verified sources.",
+    "author": {
+          "name": "Danielle Strain"
+    },
+    "keywords": [
+          "chris-young",
+          "combustion-inc",
+          "content-writing",
+          "food-science",
+          "bbq"
+    ]
+}
